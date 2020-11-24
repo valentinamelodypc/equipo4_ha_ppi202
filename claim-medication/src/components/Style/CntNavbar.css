@@ -1,0 +1,8 @@
+.bg-primary {
+  background: #6deaf7 !important;
+  color: white !important;
+}
+.navbar-brand,
+.nav-link {
+  color: rgb(0, 0, 0) !important;
+}
